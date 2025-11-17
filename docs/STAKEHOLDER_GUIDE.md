@@ -25,15 +25,20 @@ Bienvenue dans le guide destiné aux organisations souhaitant soutenir le festiv
 
 EFFETGRAFF est un **festival international d'art urbain** qui célèbre la créativité, l'expression artistique et la transformation des espaces publics à travers le street art.
 
+Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à rendre l'art accessible à tous, à travers la promotion des cultures urbaines, en rendant hommage aux figures emblématiques noires ayant marqué l'histoire du Bénin, de l'Afrique et du monde.
+
+**Édition actuelle** : **9ème édition - Du 14 au 22 novembre 2025**
+
 **Chiffres Clés** :
 - 🎨 **50+** artistes internationaux par édition
-- 🖼️ **30+** fresques monumentales créées
+- 🖼️ **100+** fresques monumentales créées depuis 2013
 - 👥 **10,000+** visiteurs lors du festival
-- 🌍 **15** nationalités représentées
-- 📅 **Depuis 2020** : 4 éditions réalisées
+- 🌍 **15+** nationalités représentées
+- 📅 **Depuis 2013** : 9 éditions réalisées
 - 🏆 **100%** des artistes satisfaits
+- 🎯 Organisé par l'Association ASSART (fondée en 2013)
 
-**Mission** : Démocratiser l'art, valoriser les talents émergents, transformer l'espace urbain en galerie à ciel ouvert.
+**Mission** : Démocratiser l'art, valoriser les talents émergents, transformer l'espace urbain en galerie à ciel ouvert, tout en faisant du Bénin une destination touristique reconnue pour ses fresques exceptionnelles.
 
 ---
 
