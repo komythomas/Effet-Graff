@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+supabase-py
+pydantic-settings
+python-jose[cryptography]
+python-dotenv
+psycopg2-binary
+typing-extensions
+
