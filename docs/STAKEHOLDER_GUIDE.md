@@ -30,7 +30,7 @@ Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à ren
 **Édition actuelle** : **9ème édition - Du 14 au 22 novembre 2025**
 
 **Chiffres Clés** :
-- 🎨 **50+** artistes internationaux par édition
+- 🎨 **20+** artistes internationaux par édition
 - 🖼️ **100+** fresques monumentales créées depuis 2013
 - 👥 **10,000+** visiteurs lors du festival
 - 🌍 **15+** nationalités représentées
@@ -91,7 +91,7 @@ Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à ren
 
 ### 1. Partenariat Financier (Sponsors)
 
-**🥇 Sponsor Principal (20,000€+)**
+**🥇 Sponsor Principal**
 
 **Visibilité maximale** :
 - Logo sur tous les supports de communication (affiches, flyers, site web, réseaux sociaux)
@@ -111,7 +111,7 @@ Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à ren
 
 ---
 
-**🥈 Sponsor Or (10,000€ - 19,999€)**
+**🥈 Sponsor Or**
 
 **Visibilité élevée** :
 - Logo sur la majorité des supports de communication
@@ -128,7 +128,7 @@ Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à ren
 
 ---
 
-**🥉 Sponsor Argent (5,000€ - 9,999€)**
+**🥉 Sponsor Argent**
 
 **Visibilité soutenue** :
 - Logo sur supports sélectionnés (site web, programme du festival)
@@ -139,7 +139,7 @@ Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à ren
 
 ---
 
-**🏅 Sponsor Bronze (2,000€ - 4,999€)**
+**🏅 Sponsor Bronze**
 
 **Visibilité de base** :
 - Logo sur le site web (page partenaires)
@@ -219,8 +219,8 @@ Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à ren
 |-------|--------|--------|
 | **Festival (présentiel)** | 10,000 personnes | Local, familles, jeunes, touristes |
 | **Site Web** | 50,000 vues/an | International, professionnels de l'art |
-| **Instagram** | 20,000 followers | 18-35 ans, urbains, connectés |
-| **Facebook** | 15,000 followers | 25-55 ans, local et national |
+| **Instagram** | 3,000 followers | 15-35 ans, urbains, connectés |
+| **Facebook** | 10,000 followers | 15-55 ans, local et national |
 | **Presse** | 500,000+ lecteurs | National, généraliste et spécialisé |
 | **TV/Radio** | 1M+ auditeurs | Local et national |
 
@@ -286,8 +286,7 @@ Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à ren
 
 **1️⃣ Premier Contact**
 - Remplissez le formulaire de contact sur le site
-- Ou écrivez directement à : **partenaires@effetgraff.com**
-- Ou appelez : +33 (0)X XX XX XX XX
+- Ou écrivez directement à : **partenaires@effetgraff.com** ou **effetgraff@gmail.com**
 
 **2️⃣ Rendez-vous Découverte** (30-45 min)
 - Présentation détaillée du festival et des éditions précédentes
@@ -411,10 +410,10 @@ Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à ren
 ### Équipe Partenariats
 
 **📧 Email** : partenaires@effetgraff.com
-**☎️ Téléphone** : +33 (0)X XX XX XX XX
+**☎️ Téléphone** : +229 (0)X XX XX XX XX
 **📍 Adresse** : [Adresse du Siège]
 
-**Responsable Partenariats** : [Nom]
+**Responsable Partenariats** : [Laurenson Djihouessi]
 - LinkedIn : [Lien]
 - Email direct : [email]
 
@@ -434,10 +433,10 @@ Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à ren
 
 ### Téléchargements
 
-- 📥 **Dossier de Partenariat 2025** (PDF) : [Lien à demander]
-- 📥 **Rapport d'Impact 2024** (PDF) : [Lien à demander]
-- 📥 **Photos Édition 2024** (ZIP) : [Lien sur demande avec accord]
-- 📥 **Kit Presse** (ZIP) : [Lien public]
+- 📥 **Dossier de Partenariat 2025** (PDF) : [[Lien à demander](https://drive.google.com/file/d/12_68a_ozz9WbZGVb_M6mdTulzjGmmIW3/view)]
+- 📥 **Rapport d'Impact 2024** (PDF) : [[Lien à demander](https://drive.google.com/file/d/1epnB7sFJlPwesYHXJi61fIpRzDuDhpZx/view)]
+- 📥 **Photos Édition 2024** (ZIP) : [[Lien sur demande avec accord](https://drive.google.com/file/d/1epnB7sFJlPwesYHXJi61fIpRzDuDhpZx/view)]
+- 📥 **Kit Presse** (ZIP) : [[Lien public](https://drive.google.com/file/d/1xvpmaxEm3nRW83G3aDEMo_OHx9uyIW3_/view)]
 
 ---
 
@@ -453,7 +452,7 @@ Le street art transforme les villes, inspire les communautés et crée des souve
 
 **🤝 Merci de votre intérêt pour EFFETGRAFF**
 
-**Contactez-nous dès aujourd'hui : partenaires@effetgraff.com**
+**Contactez-nous dès aujourd'hui : effetgraff@gmail.com**
 
 [⬆ Retour en haut](#-guide-des-parties-prenantes-effetgraff)
 
