@@ -40,7 +40,7 @@
 
 ### Le Festival
 
-Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à rendre l'art accessible à tous, à travers la promotion des cultures urbaines. Le festival rend hommage aux figures emblématiques noires ayant marqué l'histoire du Bénin, de l'Afrique et du monde.
+Créé en **2013** le Festival Effet Graff vise à rendre l'art accessible à tous, à travers la promotion des cultures urbaines. Le festival rend hommage aux figures emblématiques noires ayant marqué l'histoire du Bénin, de l'Afrique et du monde.
 
 **Édition actuelle** : **9ème édition - Du 14 au 22 novembre 2025**
 
