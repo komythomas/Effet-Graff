@@ -1,7 +1,7 @@
 # Projet EFFETGRAFF : Plateforme Internationale d'Art Urbain
 
 **Statut :** Initialisation du Développement
-**Auteur :** Manus AI
+**Auteur :** Komi Agboguin
 
 ## 1. Introduction
 
