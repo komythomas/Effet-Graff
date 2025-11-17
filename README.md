@@ -34,9 +34,21 @@
 **EFFETGRAFF** est bien plus qu'un simple site web - c'est une plateforme complète qui réunit tous les acteurs du festival international d'art urbain. Notre mission est de :
 
 - 🌍 **Célébrer l'art urbain** : Mettre en valeur les œuvres et les artistes de street art du monde entier
-- 📚 **Préserver l'histoire** : Constituer une archive vivante de toutes les éditions du festival
+- 📚 **Préserver l'histoire** : Constituer une archive vivante de toutes les éditions du festival depuis sa création en 2013
 - 🤝 **Faciliter la collaboration** : Connecter artistes, staff, bénévoles, sponsors et partenaires
 - 🔓 **Favoriser l'open source** : Offrir un outil réutilisable pour d'autres festivals culturels
+
+### Le Festival
+
+Créé en **2013** par Laurenson Djihouessi, le Festival Effet Graff vise à rendre l'art accessible à tous, à travers la promotion des cultures urbaines. Le festival rend hommage aux figures emblématiques noires ayant marqué l'histoire du Bénin, de l'Afrique et du monde.
+
+**Édition actuelle** : **9ème édition - Du 14 au 22 novembre 2025**
+
+À travers ses nombreuses éditions dans les villes, communes et localités du Bénin, Effet Graff œuvre pour la promotion de l'art urbain, et plus particulièrement du graffiti. Le festival a pour objectif d'embellir les villes, d'améliorer le cadre de vie et de transformer les murs du pays en musée à ciel ouvert.
+
+### L'Association ASSART
+
+Fondée en **2013**, l'Association Sèna (ASSART) est à l'origine du festival. Elle réunit un groupe de jeunes artistes et d'acteurs engagés dans divers domaines : graffiti, arts plastiques, musique, danse, photographie, vidéo et arts numériques. L'association œuvre activement pour l'initiation, la sensibilisation et l'épanouissement des jeunes à travers l'art et la culture.
 
 ### Vision
 
@@ -259,6 +271,10 @@ Notre documentation complète est organisée par audience et par sujet :
 - **[Guide de Démarrage Complet](./docs/GETTING_STARTED.md)** - Installation détaillée, configuration, premiers pas
 - **[Guide Utilisateur](./docs/USER_GUIDE.md)** - Utiliser la plateforme (artistes, bénévoles, staff)
 - **[Guide des Parties Prenantes](./docs/STAKEHOLDER_GUIDE.md)** - Information pour sponsors et partenaires
+
+### 🎨 Festival & Éditions
+- **[Artistes 2025](./docs/ARTISTS_2025.md)** - Profils des artistes participants à la 9ème édition
+- **[Partenaires 2025](./docs/PARTNERS_2025.md)** - Partenaires et sponsors de la 9ème édition
 
 ### 🏛️ Documentation Technique
 - **[Architecture du Système](./docs/ARCHITECTURE.md)** - Vue d'ensemble, diagrammes, décisions techniques
