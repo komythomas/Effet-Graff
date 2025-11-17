@@ -366,7 +366,7 @@ En bref :
 ### 👤 Mainteneur Principal
 **Komi Thomas Agboguin**
 - 🐙 GitHub: [@komythomas](https://github.com/komythomas)
-- 📧 Email: contact@effetgraff.com
+- 📧 Email: komythomas@gmail.com
 
 ### 🌐 Liens Utiles
 - 🎨 **Site Web du Festival** : [www.effetgraff.com](https://www.effetgraff.com) (à venir)
